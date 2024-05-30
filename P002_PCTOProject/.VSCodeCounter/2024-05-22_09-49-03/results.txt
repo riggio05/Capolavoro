@@ -1,0 +1,123 @@
+Date : 2024-05-22 09:49:03
+Directory : c:\xampp\htdocs\P002_PCTOProject
+Total : 76 files,  15422 codes, 4600 comments, 1586 blanks, all 21608 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |         68 |     14,060 |      4,465 |      1,467 |     19,992 |
+| Markdown |          2 |      1,045 |          0 |         42 |      1,087 |
+| SQL      |          1 |        201 |        135 |         72 |        408 |
+| JSON     |          4 |        115 |          0 |          4 |        119 |
+| CSS      |          1 |          1 |          0 |          1 |          2 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                    |         76 |     15,422 |      4,600 |      1,586 |     21,608 |
+| . (Files)                                                                            |         24 |      4,688 |        107 |        512 |      5,307 |
+| sql                                                                                  |          1 |        201 |        135 |         72 |        408 |
+| tmp                                                                                  |          1 |        280 |          3 |         25 |        308 |
+| vendor                                                                               |         49 |     10,213 |      4,355 |        974 |     15,542 |
+| vendor (Files)                                                                       |          1 |         20 |          1 |          5 |         26 |
+| vendor\bcosca                                                                        |         38 |      9,495 |      3,977 |        826 |     14,298 |
+| vendor\bcosca\fatfree-core                                                           |         38 |      9,495 |      3,977 |        826 |     14,298 |
+| vendor\bcosca\fatfree-core (Files)                                                   |         21 |      6,611 |      2,299 |        476 |      9,386 |
+| vendor\bcosca\fatfree-core\cli                                                       |          1 |        322 |        133 |         33 |        488 |
+| vendor\bcosca\fatfree-core\db                                                        |         10 |      2,102 |      1,244 |        251 |      3,597 |
+| vendor\bcosca\fatfree-core\db (Files)                                                |          4 |        664 |        497 |        107 |      1,268 |
+| vendor\bcosca\fatfree-core\db\jig                                                    |          2 |        453 |        238 |         46 |        737 |
+| vendor\bcosca\fatfree-core\db\mongo                                                  |          2 |        332 |        224 |         45 |        601 |
+| vendor\bcosca\fatfree-core\db\sql                                                    |          2 |        653 |        285 |         53 |        991 |
+| vendor\bcosca\fatfree-core\web                                                       |          6 |        460 |        301 |         66 |        827 |
+| vendor\bcosca\fatfree-core\web (Files)                                               |          4 |        410 |        242 |         50 |        702 |
+| vendor\bcosca\fatfree-core\web\google                                                |          2 |         50 |         59 |         16 |        125 |
+| vendor\composer                                                                      |         10 |        698 |        377 |        143 |      1,218 |
+| view                                                                                 |          1 |         40 |          0 |          3 |         43 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                             | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\xampp\htdocs\P002_PCTOProject\accountA.php                                        | PHP      |         84 |          2 |          9 |         95 |
+| c:\xampp\htdocs\P002_PCTOProject\accountS.php                                        | PHP      |        100 |          3 |          9 |        112 |
+| c:\xampp\htdocs\P002_PCTOProject\aziendeA.php                                        | PHP      |        170 |          2 |         16 |        188 |
+| c:\xampp\htdocs\P002_PCTOProject\aziendeS.php                                        | PHP      |        305 |          4 |         26 |        335 |
+| c:\xampp\htdocs\P002_PCTOProject\composer.json                                       | JSON     |          5 |          0 |          1 |          6 |
+| c:\xampp\htdocs\P002_PCTOProject\composer.lock                                       | JSON     |         54 |          0 |          1 |         55 |
+| c:\xampp\htdocs\P002_PCTOProject\connection.php                                      | PHP      |         14 |          0 |          4 |         18 |
+| c:\xampp\htdocs\P002_PCTOProject\diarioDiBordo.php                                   | PHP      |        114 |          0 |          9 |        123 |
+| c:\xampp\htdocs\P002_PCTOProject\diarioDiBordoA.php                                  | PHP      |        137 |          2 |         12 |        151 |
+| c:\xampp\htdocs\P002_PCTOProject\diarioDiBordoS.php                                  | PHP      |        155 |          0 |         13 |        168 |
+| c:\xampp\htdocs\P002_PCTOProject\home.php                                            | PHP      |         89 |          0 |          3 |         92 |
+| c:\xampp\htdocs\P002_PCTOProject\homeA.php                                           | PHP      |        148 |          0 |          8 |        156 |
+| c:\xampp\htdocs\P002_PCTOProject\homeS.php                                           | PHP      |        149 |          0 |          8 |        157 |
+| c:\xampp\htdocs\P002_PCTOProject\index.php                                           | PHP      |        857 |         56 |        150 |      1,063 |
+| c:\xampp\htdocs\P002_PCTOProject\indexBackup.php                                     | PHP      |        607 |         21 |         90 |        718 |
+| c:\xampp\htdocs\P002_PCTOProject\infoAziendaA.php                                    | PHP      |        212 |          3 |         21 |        236 |
+| c:\xampp\htdocs\P002_PCTOProject\infoStudenteA.php                                   | PHP      |        338 |          6 |         23 |        367 |
+| c:\xampp\htdocs\P002_PCTOProject\infoaziendaS.php                                    | PHP      |        339 |          5 |         32 |        376 |
+| c:\xampp\htdocs\P002_PCTOProject\modificaStudente.php                                | PHP      |        127 |          0 |         15 |        142 |
+| c:\xampp\htdocs\P002_PCTOProject\prova.php                                           | PHP      |        249 |          1 |         23 |        273 |
+| c:\xampp\htdocs\P002_PCTOProject\provaCArd.php                                       | PHP      |        106 |          0 |          8 |        114 |
+| c:\xampp\htdocs\P002_PCTOProject\signupA.php                                         | PHP      |         72 |          0 |          4 |         76 |
+| c:\xampp\htdocs\P002_PCTOProject\signupS.php                                         | PHP      |         86 |          0 |          4 |         90 |
+| c:\xampp\htdocs\P002_PCTOProject\sql\pctodatabase.sql                                | SQL      |        201 |        135 |         72 |        408 |
+| c:\xampp\htdocs\P002_PCTOProject\studentiA.php                                       | PHP      |        171 |          2 |         23 |        196 |
+| c:\xampp\htdocs\P002_PCTOProject\tmp\2lbqqywdadus8.3k5hlhmwljmss.php                 | PHP      |        280 |          3 |         25 |        308 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\autoload.php                                 | PHP      |         20 |          1 |          5 |         26 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\CHANGELOG.md             | Markdown |      1,024 |          0 |         33 |      1,057 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\README.md                | Markdown |         21 |          0 |          9 |         30 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\audit.php                | PHP      |         86 |         89 |         18 |        193 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\auth.php                 | PHP      |        170 |         79 |         14 |        263 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\base.php                 | PHP      |      2,687 |        799 |        152 |      3,638 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\basket.php               | PHP      |        107 |        110 |         23 |        240 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\bcrypt.php               | PHP      |         44 |         44 |          9 |         97 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\cli\ws.php               | PHP      |        322 |        133 |         33 |        488 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\code.css                 | CSS      |          1 |          0 |          1 |          2 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\composer.json            | JSON     |         12 |          0 |          1 |         13 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\cursor.php            | PHP      |        133 |        212 |         45 |        390 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\jig.php               | PHP      |         92 |         70 |         17 |        179 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\jig\mapper.php        | PHP      |        361 |        153 |         28 |        542 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\jig\session.php       | PHP      |         92 |         85 |         18 |        195 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\mongo.php             | PHP      |         70 |         61 |         15 |        146 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\mongo\mapper.php      | PHP      |        240 |        139 |         27 |        406 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\mongo\session.php     | PHP      |         92 |         85 |         18 |        195 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\sql.php               | PHP      |        369 |        154 |         30 |        553 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\sql\mapper.php        | PHP      |        534 |        199 |         35 |        768 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\db\sql\session.php       | PHP      |        119 |         86 |         18 |        223 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\f3.php                   | PHP      |         10 |         27 |          6 |         43 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\image.php                | PHP      |        397 |        187 |         37 |        621 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\log.php                  | PHP      |         29 |         35 |          8 |         72 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\magic.php                | PHP      |         46 |         82 |         16 |        144 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\markdown.php             | PHP      |        410 |        136 |         24 |        570 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\matrix.php               | PHP      |         61 |         68 |         11 |        140 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\session.php              | PHP      |        112 |         94 |         20 |        226 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\smtp.php                 | PHP      |        243 |        105 |         16 |        364 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\template.php             | PHP      |        211 |        120 |         23 |        354 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\test.php                 | PHP      |         39 |         49 |         11 |         99 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\utf.php                  | PHP      |         78 |        104 |         18 |        200 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web.php                  | PHP      |        823 |        171 |         26 |      1,020 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web\geo.php              | PHP      |         67 |         37 |          8 |        112 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web\google\recaptcha.php | PHP      |         25 |         27 |          7 |         59 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web\google\staticmap.php | PHP      |         25 |         32 |          9 |         66 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web\oauth2.php           | PHP      |         78 |         70 |         16 |        164 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web\openid.php           | PHP      |        158 |         76 |         15 |        249 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\bcosca\fatfree-core\web\pingback.php         | PHP      |        107 |         59 |         11 |        177 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\ClassLoader.php                     | PHP      |        286 |        235 |         59 |        580 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\InstalledVersions.php               | PHP      |        178 |        133 |         49 |        360 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\autoload_classmap.php               | PHP      |         47 |          1 |          4 |         52 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\autoload_namespaces.php             | PHP      |          5 |          1 |          4 |         10 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\autoload_psr4.php                   | PHP      |          5 |          1 |          4 |         10 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\autoload_real.php                   | PHP      |         25 |          4 |         10 |         39 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\autoload_static.php                 | PHP      |         55 |          1 |          6 |         62 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\installed.json                      | JSON     |         44 |          0 |          1 |         45 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\installed.php                       | PHP      |         32 |          0 |          1 |         33 |
+| c:\xampp\htdocs\P002_PCTOProject\vendor\composer\platform_check.php                  | PHP      |         21 |          1 |          5 |         27 |
+| c:\xampp\htdocs\P002_PCTOProject\view\home.php                                       | PHP      |         40 |          0 |          3 |         43 |
+| Total                                                                                |          |     15,422 |      4,600 |      1,586 |     21,608 |
++--------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
